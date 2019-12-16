@@ -1,28 +1,42 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+A subtracting maschien, that has two input fields where you can insert random numbers and if you click subNumbers it will subtract them. Also you can reset it to insert new numbers.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+- Windows 10 
+- Unity 2019.1.f.14
+- Visual Studio 2017
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 1920x780
 
-### Visuals: 
-Screenshots (concept and experience), Video
+### Screenshots: 
+
+##### Programm Started:
+<div>
+<img src = "Screenshots/Started.JPG" width = "500">
+</div>
+
+##### Programm Executed:
+<div>
+<img src = "Screenshots/Working.JPG" width = "500">
+</div> 
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+none
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+gitHub Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-incl. progress in percent
+Finished
 
 ### Limitations: 
+You can only subtract.
 
 ### Lessons Learned: 
+- How to create a simple subtracting machine
+- How to create a UI and combine it with C# coding
 
-Copyright by you :)
+Copyright by e.aussenegg / Eriasu
